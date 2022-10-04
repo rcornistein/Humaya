@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="256" height="256" viewBox="0 0 256 256" xml:space="preserve">
+
+<defs>
+</defs>
+<g style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;" transform="translate(1.4065934065934016 1.4065934065934016) scale(2.81 2.81)" >
+	<circle cx="45" cy="45" r="45" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgba(192, 156, 109, 0.664); fill-rule: nonzero; opacity: 1;" transform="  matrix(1 0 0 1 0 0) "/>
+	<path d="M 50.829 25.645 c -4.838 1.766 -8.541 4.816 -9.736 10.705 c 0 0 0 0 0 0 l -0.392 3.365 c 5.867 -6.671 15.09 -7.586 21.811 -6.221 c -7.123 0.853 -12.418 2.707 -17.182 6.29 l -0.02 -0.014 c -0.126 0.097 -0.241 0.205 -0.366 0.304 c -0.187 0.146 -0.38 0.274 -0.566 0.426 c -0.438 0.357 -0.875 0.738 -1.309 1.132 c -0.014 0.013 -0.028 0.026 -0.042 0.039 c -0.314 0.286 -0.628 0.575 -0.938 0.875 c 0.006 0.008 0.014 0.014 0.019 0.021 c -4.574 4.428 -7.986 10.012 -10.041 16.69 c -2.322 -7.572 -6.336 -13.784 -12.013 -18.527 l -2.556 3.06 c 6.913 5.775 11.094 14.064 12.455 24.634 h 4.238 c 1.271 -9.802 5.094 -17.688 11.14 -23.361 c 5.204 3.575 10.803 4.552 16.872 1.543 c 8.755 -5.189 9.778 -13.99 10.294 -23.027 C 67.461 28.579 59.083 22.844 50.829 25.645 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: #212529; fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+</g>
+
+</svg>
